@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/ayushverma17/MSLearn/_apis/build/status%2Faaravayush.pipelines-java?branchName=main)](https://dev.azure.com/ayushverma17/MSLearn/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
